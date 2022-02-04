@@ -1,0 +1,8 @@
+.container div{
+    border: .1px rgb(255, 255, 255) solid;
+    background-color: cornflowerblue;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
